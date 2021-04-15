@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foodie App</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="select_image">Select Image</string>
+    <string name="add_meal">Add Meal</string>
+
+</resources>
